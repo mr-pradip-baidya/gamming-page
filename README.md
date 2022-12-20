@@ -2,4 +2,4 @@
 
 `Assests are Provided!`
 
-[Project 3](./new%20gaming%20landing%20page.png)
+![new landing page](./Project%203-%20Gaming%20Landing%20Page/Assets/GAMINGn%20thumnail.png)
